@@ -1,4 +1,4 @@
-# Welcome to the MLS (Machine Learning Society) Club GitHub Repository! 🌟
+# Welcome to the MLS (Machine Learning Sup'Com) Club GitHub Repository! 🌟
 
 🚀 **Let's Learn, Share, and Prosper Together!** 🚀
 
