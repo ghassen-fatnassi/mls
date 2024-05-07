@@ -3,7 +3,8 @@
 🚀 **Let's Learn, Share, and Prosper Together!** 🚀
 
 ## About MLS:
-The Machine Learning Society (MLS) Club is a vibrant community dedicated to exploring the fascinating world of machine learning and artificial intelligence. We organize workshops, discussions, and events to foster learning and collaboration among enthusiasts, beginners, and experts alike. 💡🤖
+The Machine Learning Society (MLS) Club is a vibrant community dedicated to exploring the fascinating world of machine learning and artificial intelligence. We organize workshops, discussions, and events to foster learning and collaboration among enthusiasts, beginners, and experts.
+MLS bureau promises a rich learning journey💡🤖
 
 ## What's Inside:
 Inside this repository, you'll find a treasure trove of study materials, resources, and projects presented in our workshops. From introductory tutorials to advanced topics, we've got you covered! 📚💻
