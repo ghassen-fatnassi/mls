@@ -30,3 +30,5 @@ Join our vibrant community on [insert social media links or platforms here] to s
 ## putting this here so i don't forget about it 2 : https://github.com/tensorflow/tensor2tensor/issues/1591
 
 ## putting this here so i don't forget about it 2 3: https://jalammar.github.io/illustrated-transformer/#representing-the-order-of-the-sequence-using-positional-encoding
+
+## this is a goldmine : https://jalammar.github.io/
