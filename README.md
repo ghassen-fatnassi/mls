@@ -99,6 +99,6 @@ We believe in the power of community collaboration! If you have study notes, cod
 
 ## Let's Connect
 
-Join our vibrant community on [insert social media links or platforms here] to stay updated on upcoming events, discussions, and announcements. Let's stay connected and support each other on our learning journeys! 🌐📲
+Join our vibrant community on [insert social media links or platforms here] to stay updated on upcoming events, discussions, and announcements. Let's stay connected and support each other on our learning journeys!
 
 🌟 **Let's Learn, Share, and Prosper Together with MLS!** 🌟
