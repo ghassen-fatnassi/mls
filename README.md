@@ -80,8 +80,10 @@ You can also get this course by filling out a good financial aid form on Courser
 at this point you probably have a very decent knowledge in AI. you might have your own ideas to try or you might wanna learn more. whatever it is ,go ahead and start!
 I'll attach here some more resources:
 
-1. **Community**
+1. **Communities & blogs & smart ppl in AI**
    [hugging face learn](https://huggingface.co/learn)
+   [jalammar blog](https://jalammar.github.io/)
+   [andrej karpathy yt channel](https://www.youtube.com/@AndrejKarpathy)
 2. **if you wanna learn transformers**:
    [vid1](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
    [vid2](https://www.youtube.com/watch?v=eMlx5fFNoYc&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6)
@@ -90,6 +92,8 @@ I'll attach here some more resources:
    [positional encoding explanation1](https://www.reddit.com/r/MachineLearning/comments/cttefo/comment/exs7d08/?utm_source=reddit&utm_medium=web2x&context=3)
    [positional encoding explanation2](https://www.blopig.com/blog/2023/10/understanding-positional-encoding-in-transformers/)
    [vid3](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1445s)
+3. **illustration of power of gpu in paralell computing**:
+   [vid](https://www.youtube.com/watch?v=-P28LKWTzrI)
 
 ## How to Contribute:
 
@@ -100,13 +104,3 @@ We believe in the power of community collaboration! If you have study notes, cod
 Join our vibrant community on [insert social media links or platforms here] to stay updated on upcoming events, discussions, and announcements. Let's stay connected and support each other on our learning journeys! 🌐📲
 
 🌟 **Let's Learn, Share, and Prosper Together with MLS!** 🌟
-
-## putting this here so i don't forget about it :https://www.youtube.com/watch?v=-P28LKWTzrI
-
-## putting this here so i don't forget about it 2 : https://github.com/tensorflow/tensor2tensor/issues/1591
-
-## putting this here so i don't forget about it 2 3: https://jalammar.github.io/illustrated-transformer/#representing-the-order-of-the-sequence-using-positional-encoding
-
-## this too: https://www.reddit.com/r/MachineLearning/comments/cttefo/comment/exs7d08/?utm_source=reddit&utm_medium=web2x&context=3
-
-## this is a goldmine : https://jalammar.github.io/
