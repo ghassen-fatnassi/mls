@@ -15,6 +15,22 @@ Inside this repository, you'll find a treasure trove of study materials, resourc
 
 ### essentials:
 
+#### Coursera Machine Learning Specialization
+
+you can get this course by filing a good financial aid form in coursera ,[link](https://www.coursera.org/specializations/machine-learning-introduction?adgroupid=156621904981&adposition=&aid=true&campaignid=21092529272&creativeid=693270366211&device=c&devicemodel=&gad_source=1&gclid=EAIaIQobChMIkKXnzZO9hgMVd2hBAh2C_QaVEAAYASAAEgJovPD_BwE&hide_mobile_promo&keyword=coursera+machine+learning&matchtype=p&network=g&utm_campaign=b2c_emea_machine-learning-introduction_stanford_ftcof_specializations_arte_march_24_dr_geo-multi-set2_sem_rsa_gads_lg-all&utm_medium=sem&utm_source=gg)
+
+1. **Supervised Machine Learning: Regression and Classification**
+
+   - **Description**:Key topics include linear regression, logistic regression.
+
+2. **Advanced Learning Algorithms**
+
+   - **Description**: the mysterious Deep Learning will be intoduced in the first half of this course , decision trees and their use cases will be intorduced in the latter half of the course , "Milekher course mouhem barcha".
+
+3. **Unsupervised Learning, Recommenders, Reinforcement Learning**
+
+   - **Description**:recommendation systems, and reinforcement learning.
+
 ## How to Contribute:
 
 We believe in the power of community collaboration! If you have study notes, code snippets, or project ideas you'd like to share with fellow MLS members, feel free to contribute! Simply fork this repository, make your changes, and submit a pull request. Let's build something amazing together! 🛠️🤝
