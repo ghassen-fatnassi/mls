@@ -2,45 +2,50 @@
 
 🚀 **Let's Learn, Share, and Prosper Together!** 🚀
 
-## About MLS:
+## About MLS
 
 The Machine Learning Society (MLS) Club is a vibrant community dedicated to exploring the fascinating world of machine learning and artificial intelligence. We organize workshops, discussions, and events to foster learning and collaboration among enthusiasts, beginners, and experts. The MLS bureau promises a rich learning journey. 💡🤖
 
-## What's Inside:
+## What's Inside
 
 Inside this repository, you'll find a treasure trove of study materials, resources, and projects presented in our workshops. From introductory tutorials to advanced topics, we've got you covered. Let's dive right in!! 📚💻
 
-## MLS ROADMAP:
+## MLS ROADMAP
 
-### essentials:
+### Essentials
 
 #### Coursera Machine Learning Specialization
 
-You can get this course by filling out a good financial aid form on Coursera. [link](https://www.coursera.org/specializations/machine-learning-introduction?adgroupid=156621904981&adposition=&aid=true&campaignid=21092529272&creativeid=693270366211&device=c&devicemodel=&gad_source=1&gclid=EAIaIQobChMIkKXnzZO9hgMVd2hBAh2C_QaVEAAYASAAEgJovPD_BwE&hide_mobile_promo&keyword=coursera+machine+learning&matchtype=p&network=g&utm_campaign=b2c_emea_machine-learning-introduction_stanford_ftcof_specializations_arte_march_24_dr_geo-multi-set2_sem_rsa_gads_lg-all&utm_medium=sem&utm_source=gg).
-After filling out the form, you will have to wait 16 days exactly. If you fill out the form well (do not generate content from ChatGPT), you will surely get the course for free. I suggest you apply for financial aid for every possible course on this list. To not leave you waiting 16 days to start grinding, here's a YouTube collection of the first course. You can start right away: [link](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b).
+You can get this course by filling out a good financial aid form on Coursera. [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?adgroupid=156621904981&adposition=&aid=true&campaignid=21092529272&creativeid=693270366211&device=c&devicemodel=&gad_source=1&gclid=EAIaIQobChMIkKXnzZO9hgMVd2hBAh2C_QaVEAAYASAAEgJovPD_BwE&hide_mobile_promo&keyword=coursera+machine+learning&matchtype=p&network=g&utm_campaign=b2c_emea_machine-learning-introduction_stanford_ftcof_specializations_arte_march_24_dr_geo-multi-set2_sem_rsa_gads_lg-all&utm_medium=sem&utm_source=gg).
+
+After filling out the form, you will have to wait 16 days exactly. If you fill out the form well (do not generate content from ChatGPT), you will surely get the course for free. I suggest you apply for financial aid for every possible course on this list. To not leave you waiting 16 days to start grinding, here's a YouTube collection of the first course. You can start right away: [YouTube Collection](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b).
 
 1. **Supervised Machine Learning: Regression and Classification**
 
    - **Description**: Key topics include linear regression, logistic regression.
 
 2. **Advanced Learning Algorithms**
-   before you dive into this course , check these 4 videos for better visualization : very recommended
-   [video1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi),[video2](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2),[video3](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3),[video4](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4)
 
-   - **Description**: The mysterious Deep Learning will be introduced in the first half of this course. Decision trees and their use cases will be introduced in the latter half of the course. "Milekher course mouhem barcha".
-     For more rigor and math, check this: [MIT COURSE ON DECISION TREES AND NEAREST NEIGHBORS](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week13/non_parametric/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40non_parametric).
+   - **Description**: The mysterious Deep Learning will be introduced in the first half of this course. Decision trees and their use cases will be introduced in the latter half of the course. "Milekher course mouhem barcha". For more rigor and math, check this: [MIT Course on Decision Trees and Nearest Neighbors](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week13/non_parametric/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40non_parametric).
+
+   Before you dive into this course, check these 4 videos for better visualization (very recommended):
+
+   - [Video 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+   - [Video 2](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2)
+   - [Video 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
+   - [Video 4](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4)
 
 3. **Unsupervised Learning, Recommenders, Reinforcement Learning**
-   - **Description**: Recommendation systems, and reinforcement learning.
-     For more rigor and math, check this: [MIT COURSE ON REINFORCEMENT LEARNING](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week10/reinforcement_learning/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40reinforcement_learning).
-     For more rigor and math, check this: [MIT COURSE ON RECOMMENDER SYSTEMS](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week12/recommender_systems/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40recommender_systems).
+   - **Description**: Recommendation systems, and reinforcement learning. For more rigor and math, check these:
+     - [MIT Course on Reinforcement Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week10/reinforcement_learning/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40reinforcement_learning)
+     - [MIT Course on Recommender Systems](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week12/recommender_systems/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40recommender_systems)
 
-#### Time to learn a framework to create those models with , I personally recommend this stack:
+#### Time to learn a framework to create those models with, I personally recommend this stack:
 
-1. **scikit-learn** for non deep learning tasks :linear regression,K_means,KNN,decision trees,random forests,SVM, ... .
-2. **pytorch** for deep learning tasks , [my personal favorite source](learnpytorch.io) this course is the richest course in the internet about pytorch, it really shows the effort put in to make deep learning accessible to all of us! from various aspects, math , programming and GPU's.
-   PS: you'll need some additional frameworks to work with data (pandas, cv2, ...) , no need to take a course on them , you'll learn them along the way .
-3. **grind kaggle competitions** this is the best way to start practicing machine learning , you'll just learn a lot by taking on a challenge and trying to solve the same problem for a while , seeing other's submissions and integrating yourself with the community of AI.
+1. **scikit-learn** for non-deep learning tasks: linear regression, K-means, KNN, decision trees, random forests, SVM, etc.
+2. **pytorch** for deep learning tasks, [my personal favorite source](https://learnpytorch.io) - this course is the richest course on the internet about pytorch. It really shows the effort put in to make deep learning accessible to all of us from various aspects: math, programming, and GPUs.
+   - PS: You'll need some additional frameworks to work with data (pandas, cv2, etc.). No need to take a course on them, you'll learn them along the way.
+3. **Grind Kaggle competitions** - This is the best way to start practicing machine learning. You'll learn a lot by taking on a challenge, trying to solve the same problem for a while, seeing others' submissions, and integrating yourself with the AI community.
 
 #### Coursera Deep Learning Specialization: Where the Real Game Begins
 
@@ -48,58 +53,51 @@ You can also get this course by filling out a good financial aid form on Courser
 
 1. **Neural Networks and Deep Learning**
 
-   - **Description**: This course provides a foundation for neural networks and deep learning. Key topics include the basics of neural networks, forward and backward propagation, and building and training deep neural networks.
-     Most of the content of this course is covered in the Machine Learning Specialization "Advanced Algorithms," but try to swipe through it to see any keywords you don't know and fill in the gaps.
-     Also, check this out for more rigor. For those of you who want to dive into the math, I promise it's a lot of fun: [MIT COURSE ON NNs](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week7/neural_networks_2/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40neural_networks_2).
-     if your financial aid is not ready here's a youtube version (without the labs ofc):[link](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0).
+   - **Description**: This course provides a foundation for neural networks and deep learning. Key topics include the basics of neural networks, forward and backward propagation, and building and training deep neural networks. Most of the content of this course is covered in the Machine Learning Specialization "Advanced Algorithms," but try to swipe through it to see any keywords you don't know and fill in the gaps. Also, check this out for more rigor. For those of you who want to dive into the math, I promise it's a lot of fun: [MIT Course on NNs](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week7/neural_networks_2/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40neural_networks_2). If your financial aid is not ready, here's a YouTube version (without the labs): [YouTube Link](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0).
 
 2. **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**
 
-   - **Description**: Learn how to improve the performance of your deep neural networks by using hyperparameter tuning, regularization techniques, and optimization algorithms. If you think you know this, swipe through it but make the most of it.
-     if your financial aid is not ready here's a youtube version (without the labs ofc):[link](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc).
+   - **Description**: Learn how to improve the performance of your deep neural networks by using hyperparameter tuning, regularization techniques, and optimization algorithms. If you think you know this, swipe through it but make the most of it. If your financial aid is not ready, here's a YouTube version (without the labs): [YouTube Link](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc).
 
 3. **Structuring Machine Learning Projects**
 
-   - **Description**: This course focuses on how to structure machine learning projects efficiently. It covers important aspects like error analysis, avoiding overfitting, and handling mismatched training/test sets.
-     if your financial aid is not ready here's a youtube version (without the labs ofc):[link](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b).
+   - **Description**: This course focuses on how to structure machine learning projects efficiently. It covers important aspects like error analysis, avoiding overfitting, and handling mismatched training/test sets. If your financial aid is not ready, here's a YouTube version (without the labs): [YouTube Link](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b).
 
 4. **Convolutional Neural Networks**
 
-   - **Description**: Dive into convolutional neural networks (CNNs) and learn about their applications in computer vision tasks. Topics include convolutional operations, pooling layers, and advanced architectures like VGG, ResNet, and InceptionNet.
-     For more rigor and math, check this: [MIT COURSE ON CNNs](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week8/convolutional_neural_networks/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40convolutional_neural_networks).
-     if your financial aid is not ready here's a youtube version (without the labs ofc):[link](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF).
-     a video that visually explains what's a convolution ,very recommended: [vid](https://www.youtube.com/watch?v=KuXjwB4LzSA&t=624s)
+   - **Description**: Dive into convolutional neural networks (CNNs) and learn about their applications in computer vision tasks. Topics include convolutional operations, pooling layers, and advanced architectures like VGG, ResNet, and InceptionNet. For more rigor and math, check this: [MIT Course on CNNs](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week8/convolutional_neural_networks/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40convolutional_neural_networks). If your financial aid is not ready, here's a YouTube version (without the labs): [YouTube Link](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF). A video that visually explains what's a convolution, very recommended: [Video](https://www.youtube.com/watch?v=KuXjwB4LzSA&t=624s).
 
 5. **Sequence Models**
-   - **Description**: This course covers sequence models and their applications in areas such as natural language processing and time series analysis. Key topics include Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks.
-     For more rigor and math, check this: [MIT COURSE ON RNNs](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week11/rnn/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40rnn).
-     if your financial aid is not ready here's a youtube version (without the labs ofc):[link](https://www.youtube.com/watch?v=S7oA5C43Rbc&t=881s).
+   - **Description**: This course covers sequence models and their applications in areas such as natural language processing and time series analysis. Key topics include Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks. For more rigor and math, check this: [MIT Course on RNNs](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week11/rnn/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40rnn). If your financial aid is not ready, here's a YouTube version (without the labs): [YouTube Link](https://www.youtube.com/watch?v=S7oA5C43Rbc&t=881s).
 
-## what's next ?:
+## What's Next?
 
-at this point you probably have a very decent knowledge in AI. you might have your own ideas to try or you might wanna learn more. whatever it is ,go ahead and start!
-I'll attach here some more resources:
+At this point, you probably have a very decent knowledge in AI. You might have your own ideas to try or you might want to learn more. Whatever it is, go ahead and start! I'll attach here some more resources:
 
-1. **Communities & blogs & smart ppl in AI**
-   [hugging face learn](https://huggingface.co/learn)
-   [jalammar blog](https://jalammar.github.io/)
-   [andrej karpathy yt channel](https://www.youtube.com/@AndrejKarpathy)
-2. **if you wanna learn transformers**:
-   [vid1](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
-   [vid2](https://www.youtube.com/watch?v=eMlx5fFNoYc&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6)
-   [paper](https://arxiv.org/pdf/1706.03762)
-   [detailed explanation](https://jalammar.github.io/illustrated-transformer/#The%20Beast%20With%20Many%20Heads)
-   [positional encoding explanation1](https://www.reddit.com/r/MachineLearning/comments/cttefo/comment/exs7d08/?utm_source=reddit&utm_medium=web2x&context=3)
-   [positional encoding explanation2](https://www.blopig.com/blog/2023/10/understanding-positional-encoding-in-transformers/)
-   [vid3](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1445s)
-3. **illustration of power of gpu in paralell computing**:
-   [vid](https://www.youtube.com/watch?v=-P28LKWTzrI)
+1. **Communities, Blogs, & Smart People in AI**
 
-## How to Contribute:
+   - [Hugging Face Learn](https://huggingface.co/learn)
+   - [Jalammar Blog](https://jalammar.github.io/)
+   - [Andrej Karpathy YouTube Channel](https://www.youtube.com/@AndrejKarpathy)
+
+2. **If You Want to Learn Transformers**:
+
+   - [Video 1](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
+   - [Video 2](https://www.youtube.com/watch?v=eMlx5fFNoYc&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6)
+   - [Paper](https://arxiv.org/pdf/1706.03762)
+   - [Detailed Explanation](https://jalammar.github.io/illustrated-transformer/#The%20Beast%20With%20Many%20Heads)
+   - [Positional Encoding Explanation 1](https://www.reddit.com/r/MachineLearning/comments/cttefo/comment/exs7d08/?utm_source=reddit&utm_medium=web2x&context=3)
+   - [Positional Encoding Explanation 2](https://www.blopig.com/blog/2023/10/understanding-positional-encoding-in-transformers/)
+   - [Video 3](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1445s)
+
+3. **Illustration of the Power of GPU in Parallel Computing**:
+   - [Video](https://www.youtube.com/watch?v=-P28LKWTzrI)
+
+## How to Contribute
 
 We believe in the power of community collaboration! If you have study notes, code snippets, or project ideas you'd like to share with fellow MLS members, feel free to contribute! Simply fork this repository, make your changes, and submit a pull request. Let's build something amazing together! 🛠️🤝
 
-## Let's Connect:
+## Let's Connect
 
 Join our vibrant community on [insert social media links or platforms here] to stay updated on upcoming events, discussions, and announcements. Let's stay connected and support each other on our learning journeys! 🌐📲
 
