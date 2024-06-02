@@ -31,4 +31,6 @@ Join our vibrant community on [insert social media links or platforms here] to s
 
 ## putting this here so i don't forget about it 2 3: https://jalammar.github.io/illustrated-transformer/#representing-the-order-of-the-sequence-using-positional-encoding
 
+## this too: https://www.reddit.com/r/MachineLearning/comments/cttefo/comment/exs7d08/?utm_source=reddit&utm_medium=web2x&context=3
+
 ## this is a goldmine : https://jalammar.github.io/
