@@ -39,6 +39,7 @@ After filling out the form, you will have to wait 16 days exactly. If you fill o
    - **Description**: Recommendation systems, and reinforcement learning. For more rigor and math, check these:
      - [MIT Course on Reinforcement Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week10/reinforcement_learning/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40reinforcement_learning)
      - [MIT Course on Recommender Systems](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week12/recommender_systems/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40recommender_systems)
+     - if wanna learn more about reinforcement learning , here's a well structured documentation from openAI personally [SpinningUp in DEEP RL](https://spinningup.openai.com/en/latest/)
 
 #### Time to learn a framework to create those models with, I personally recommend this stack:
 
@@ -78,6 +79,7 @@ At this point, you probably have a very decent knowledge in AI. You might have y
 
    - [Hugging Face Learn](https://huggingface.co/learn)
    - [Jalammar Blog](https://jalammar.github.io/)
+   - [Horace He Blog](https://horace.io/index.html)
    - [Andrej Karpathy YouTube Channel](https://www.youtube.com/@AndrejKarpathy)
 
 2. **If You Want to Learn Transformers**:
@@ -92,6 +94,9 @@ At this point, you probably have a very decent knowledge in AI. You might have y
 
 3. **Illustration of the Power of GPU in Parallel Computing**:
    - [Video](https://www.youtube.com/watch?v=-P28LKWTzrI)
+4. **other relevant articles**:
+   - [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+   - [performance++](https://horace.io/brrr_intro.html)
 
 ## How to Contribute
 
@@ -102,3 +107,5 @@ We believe in the power of community collaboration! If you have study notes, cod
 Join our vibrant community on [insert social media links or platforms here] to stay updated on upcoming events, discussions, and announcements. Let's stay connected and support each other on our learning journeys!
 
 🌟 **Let's Learn, Share, and Prosper Together with MLS!** 🌟
+
+### don't forget :
