@@ -4,7 +4,7 @@
 
 ## About MLS
 
-The Machine Learning Society (MLS) Club is a vibrant community dedicated to exploring the fascinating world of machine learning and artificial intelligence. We organize workshops, discussions, and events to foster learning and collaboration among enthusiasts, beginners, and experts. The MLS bureau promises a rich learning journey. 💡🤖
+The Machine Learning Sup'Com (MLS) Club is a vibrant community dedicated to exploring the fascinating world of machine learning and artificial intelligence. We organize workshops, discussions, and events to foster learning and collaboration among enthusiasts, beginners, and experts. The MLS bureau promises a rich learning journey. 💡🤖
 
 ## What's Inside
 
