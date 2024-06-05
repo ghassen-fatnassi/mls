@@ -8,7 +8,7 @@ The Machine Learning Sup'Com (MLS) Club is a vibrant community dedicated to expl
 
 ## What's Inside
 
-Inside this repository, you'll find a treasure trove of study materials, resources, and projects presented in our workshops. From introductory tutorials to advanced topics, we've got you covered. Let's dive right in!! 📚💻
+Inside this repository, you'll find a treasure trove of study materials, resources and article designed curated from the best ressources on the internet. From introductory tutorials to advanced topics, we've got you covered. Let's dive right in!! 📚💻
 
 ## MLS ROADMAP
 
