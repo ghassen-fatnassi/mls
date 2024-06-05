@@ -98,6 +98,7 @@ At this point, you probably have a very decent knowledge in AI. You might have y
    - [Video](https://www.youtube.com/watch?v=-P28LKWTzrI)
    - [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
    - [performance++](https://horace.io/brrr_intro.html)
+   - are NN just a better way to compress data? : [vid](https://www.youtube.com/watch?v=piF6D6CQxUw)
 
 ## How to Contribute
 
