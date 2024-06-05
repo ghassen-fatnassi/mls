@@ -80,21 +80,22 @@ At this point, you probably have a very decent knowledge in AI. You might have y
    - [Hugging Face Learn](https://huggingface.co/learn)
    - [Jalammar Blog](https://jalammar.github.io/)
    - [Horace He Blog](https://horace.io/index.html)
-   - [Andrej Karpathy YouTube Channel](https://www.youtube.com/@AndrejKarpathy)
+   - [Andrej Karpathy YT Channel](https://www.youtube.com/@AndrejKarpathy)
+   - [Pieter Abbeel YT channel](https://www.youtube.com/@PieterAbbeel/playlists)
+   - [POLO CLUB AI](https://poloclub.github.io/#research-ai)
 
 2. **If You Want to Learn Transformers**:
 
-   - [Video 1](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
-   - [Video 2](https://www.youtube.com/watch?v=eMlx5fFNoYc&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6)
-   - [Paper](https://arxiv.org/pdf/1706.03762)
-   - [Detailed Explanation](https://jalammar.github.io/illustrated-transformer/#The%20Beast%20With%20Many%20Heads)
-   - [Positional Encoding Explanation 1](https://www.reddit.com/r/MachineLearning/comments/cttefo/comment/exs7d08/?utm_source=reddit&utm_medium=web2x&context=3)
-   - [Positional Encoding Explanation 2](https://www.blopig.com/blog/2023/10/understanding-positional-encoding-in-transformers/)
-   - [Video 3](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1445s)
+   - helps with visualization: [Video 1](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
+   - helps with visualization: [Video 2](https://www.youtube.com/watch?v=eMlx5fFNoYc&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6)
+   - must read: [Paper](https://arxiv.org/pdf/1706.03762)
+   - read this after the paper: [Detailed Explanation](https://jalammar.github.io/illustrated-transformer/#The%20Beast%20With%20Many%20Heads)
+   - positional encoding is not well explained in most sources so here are 2 additional link that might help: [Positional Encoding Explanation 1](https://www.reddit.com/r/MachineLearning/comments/cttefo/comment/exs7d08/?utm_source=reddit&utm_medium=web2x&context=3) && [Positional Encoding Explanation 2](https://www.blopig.com/blog/2023/10/understanding-positional-encoding-in-transformers/)
+   - code transformers from scratch with andrej karpathy: [Video 3](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1445s)
+   - 100% must watch, it's a stanford lecture , in 4 different versions , i recommend version 3 or 4, but they're all doped with content: [transformers united](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1445s)
 
-3. **Illustration of the Power of GPU in Parallel Computing**:
+3. **other relevant ressources**:
    - [Video](https://www.youtube.com/watch?v=-P28LKWTzrI)
-4. **other relevant articles**:
    - [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
    - [performance++](https://horace.io/brrr_intro.html)
 
@@ -107,5 +108,3 @@ We believe in the power of community collaboration! If you have study notes, cod
 Join our vibrant community on [insert social media links or platforms here] to stay updated on upcoming events, discussions, and announcements. Let's stay connected and support each other on our learning journeys!
 
 🌟 **Let's Learn, Share, and Prosper Together with MLS!** 🌟
-
-### don't forget :
