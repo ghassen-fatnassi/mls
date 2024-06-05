@@ -83,6 +83,7 @@ At this point, you probably have a very decent knowledge in AI. You might have y
    - [Andrej Karpathy YT Channel](https://www.youtube.com/@AndrejKarpathy)
    - [Pieter Abbeel YT channel](https://www.youtube.com/@PieterAbbeel/playlists)
    - [POLO CLUB AI](https://poloclub.github.io/#research-ai)
+   - rich source on production ML made by [Goku Mohandas](https://madewithml.com/#course)
 
 2. **If You Want to Learn Transformers**:
 
