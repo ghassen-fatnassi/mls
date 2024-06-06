@@ -84,6 +84,7 @@ At this point, you probably have a very decent knowledge in AI. You might have y
    - [Pieter Abbeel YT channel](https://www.youtube.com/@PieterAbbeel/playlists)
    - [POLO CLUB AI](https://poloclub.github.io/#research-ai)
    - rich source on production ML made by [Goku Mohandas](https://madewithml.com/#course)
+   - [Divyanash Garg](https://divyanshgarg.com/)
 
 2. **If You Want to Learn Transformers**:
 
@@ -100,6 +101,7 @@ At this point, you probably have a very decent knowledge in AI. You might have y
    - [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
    - [performance++](https://horace.io/brrr_intro.html)
    - are NN just a better way to compress data? : [vid](https://www.youtube.com/watch?v=piF6D6CQxUw)
+   - openAI perspective on AI , a talk in stanford , must watch [Stanford CS25: V4 I Jason Wei & Hyung Won Chung of OpenAI](https://www.youtube.com/watch?v=3gb-ZkVRemQ&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&index=27)
 
 ## How to Contribute
 
