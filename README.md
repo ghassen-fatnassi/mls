@@ -97,6 +97,7 @@ At this point, you probably have a very decent knowledge in AI. You might have y
    - 100% must watch, it's a stanford lecture , in 4 different versions , i recommend version 3 or 4, but they're all doped with content: [transformers united](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1445s)
 
 3. **other relevant ressources**:
+
    - [Video](https://www.youtube.com/watch?v=-P28LKWTzrI)
    - [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
    - [performance++](https://horace.io/brrr_intro.html)
@@ -104,6 +105,9 @@ At this point, you probably have a very decent knowledge in AI. You might have y
    - openAI perspective on AI , a talk in stanford , must watch [Stanford CS25: V4 I Jason Wei & Hyung Won Chung of OpenAI](https://www.youtube.com/watch?v=3gb-ZkVRemQ&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&index=27)
    - interested in deploying your machine learning models on Rasberry-Pi ? here's a good pytorch tutorial ! [click me!](https://pytorch.org/tutorials/intermediate/realtime_rpi.html)
    - goldmine of ressources for advanced ppl ! [click me!](https://www.learnpytorch.io/pytorch_extra_resources/#resources-for-machine-learning-and-deep-learning-engineering)
+
+4. **I'm ready for a job!**:
+   - if you are wondering whether you are ready for a job in ML or not , check out this interview book! it covers a lot of areas , test yourself : [interview BOOK](https://huyenchip.com/ml-interviews-book/)
 
 ## How to Contribute
 
