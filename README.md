@@ -102,6 +102,7 @@ At this point, you probably have a very decent knowledge in AI. You might have y
    - [performance++](https://horace.io/brrr_intro.html)
    - are NN just a better way to compress data? : [vid](https://www.youtube.com/watch?v=piF6D6CQxUw)
    - openAI perspective on AI , a talk in stanford , must watch [Stanford CS25: V4 I Jason Wei & Hyung Won Chung of OpenAI](https://www.youtube.com/watch?v=3gb-ZkVRemQ&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&index=27)
+   - interested in deploying your machine learning models on Rasberry-Pi ? here's a good pytorch tutorial ! [click me!](https://pytorch.org/tutorials/intermediate/realtime_rpi.html)
 
 ## How to Contribute
 
