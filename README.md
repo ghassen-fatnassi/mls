@@ -18,15 +18,16 @@ Inside this repository, you'll find a treasure trove of study materials, resourc
 
 You can get this course by filling out a good financial aid form on Coursera. [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?adgroupid=156621904981&adposition=&aid=true&campaignid=21092529272&creativeid=693270366211&device=c&devicemodel=&gad_source=1&gclid=EAIaIQobChMIkKXnzZO9hgMVd2hBAh2C_QaVEAAYASAAEgJovPD_BwE&hide_mobile_promo&keyword=coursera+machine+learning&matchtype=p&network=g&utm_campaign=b2c_emea_machine-learning-introduction_stanford_ftcof_specializations_arte_march_24_dr_geo-multi-set2_sem_rsa_gads_lg-all&utm_medium=sem&utm_source=gg).
 
-After filling out the form, you will have to wait 16 days exactly. If you fill out the form well (do not generate content from ChatGPT), you will surely get the course for free. I suggest you apply for financial aid for every possible course on this list. To not leave you waiting 16 days to start grinding, here's a YouTube collection of the first course. You can start right away: [YouTube Collection](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b).
+After filling out the form, you will have to wait 16 days exactly. If you fill out the form well (do not generate content from ChatGPT), you will surely get the course for free. I suggest you apply for financial aid for every possible course on this list. below are links for each course if u don't manage to get coursera 100% discount.
 
-1. **Supervised Machine Learning: Regression and Classification**
+1. **Supervised Machine Learning: Regression and Classification** [YouTube Collection](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b).
 
    - **Description**: Key topics include linear regression, logistic regression.
 
-2. **Advanced Learning Algorithms**
+2. **Advanced Learning Algorithms** [Youtube Collection](https://www.youtube.com/watch?v=ggWLvh484hs&list=PLyoNSC4BT4eVpykPF0Yx8C1Zs50XtD17L)
 
-   - **Description**: The mysterious Deep Learning will be introduced in the first half of this course. Decision trees and their use cases will be introduced in the latter half of the course. "Milekher course mouhem barcha". For more rigor and math, check this: [MIT Course on Decision Trees and Nearest Neighbors](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week13/non_parametric/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40non_parametric).
+   - **Description**: The mysterious Deep Learning will be introduced in the first half of this course. Decision trees and their use cases will be introduced in the latter half of the course. "Milekher course mouhem barcha".
+   -  For more rigor and math, check this: [MIT Course on Decision Trees and Nearest Neighbors](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week13/non_parametric/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40non_parametric).
 
    Before you dive into this course, check these 4 videos for better visualization (very recommended):
 
@@ -115,6 +116,6 @@ We believe in the power of community collaboration! If you have study notes, cod
 
 ## Let's Connect
 
-Join our vibrant community on [insert social media links or platforms here] to stay updated on upcoming events, discussions, and announcements. Let's stay connected and support each other on our learning journeys!
+Join our vibrant community on [facebook](https://www.facebook.com/machinelearningsupcom) to stay updated on upcoming events, discussions, and announcements. Let's stay connected and support each other on our learning journeys!
 
 🌟 **Let's Learn, Share, and Prosper Together with MLS!** 🌟
