@@ -27,7 +27,7 @@ After filling out the form, you will have to wait 16 days exactly. If you fill o
 2. **Advanced Learning Algorithms** [Youtube Collection](https://www.youtube.com/watch?v=ggWLvh484hs&list=PLyoNSC4BT4eVpykPF0Yx8C1Zs50XtD17L)
 
    - **Description**: The mysterious Deep Learning will be introduced in the first half of this course. Decision trees and their use cases will be introduced in the latter half of the course. "Milekher course mouhem barcha".
-   -  For more rigor and math, check this: [MIT Course on Decision Trees and Nearest Neighbors](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week13/non_parametric/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40non_parametric).
+   - For more rigor and math, check this: [MIT Course on Decision Trees and Nearest Neighbors](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/courseware/Week13/non_parametric/?activate_block_id=block-v1%3AMITx%2B6.036%2B1T2019%2Btype%40sequential%2Bblock%40non_parametric).
 
    Before you dive into this course, check these 4 videos for better visualization (very recommended):
 
@@ -87,7 +87,7 @@ At this point, you probably have a very decent knowledge in AI. You might have y
    - rich source on production ML made by [Goku Mohandas](https://madewithml.com/#course)
    - [Divyanash Garg](https://divyanshgarg.com/)
 
-2. **If You Want to Learn Transformers**:
+2. **If You Want to Learn Transformers, they are interesting**:
 
    - helps with visualization: [Video 1](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
    - helps with visualization: [Video 2](https://www.youtube.com/watch?v=eMlx5fFNoYc&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6)
