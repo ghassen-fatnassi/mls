@@ -78,13 +78,14 @@ At this point, you probably have a very decent knowledge in AI. You might have y
 
 1. **Communities, Blogs, & Smart People in AI**
 
+   - [chandar-lab] (https://www.youtube.com/@chandar-lab9459)
    - [Hugging Face Learn](https://huggingface.co/learn)
    - [Jalammar Blog](https://jalammar.github.io/)
    - [Horace He Blog](https://horace.io/index.html)
    - [Andrej Karpathy YT Channel](https://www.youtube.com/@AndrejKarpathy)
    - [Pieter Abbeel YT channel](https://www.youtube.com/@PieterAbbeel/playlists)
    - [POLO CLUB AI](https://poloclub.github.io/#research-ai)
-   - rich source on production ML made by [Goku Mohandas](https://madewithml.com/#course)
+   - [Goku Mohandas](https://madewithml.com/#course) rich source on production ML made by
    - [Divyanash Garg](https://divyanshgarg.com/)
 
 2. **If You Want to Learn Transformers, they are interesting**:
