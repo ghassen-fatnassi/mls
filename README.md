@@ -78,7 +78,7 @@ At this point, you probably have a very decent knowledge in AI. You might have y
 
 1. **Communities, Blogs, & Smart People in AI**
 
-   - [chandar-lab] (https://www.youtube.com/@chandar-lab9459)
+   - [chandar-lab](https://www.youtube.com/@chandar-lab9459)
    - [Hugging Face Learn](https://huggingface.co/learn)
    - [Jalammar Blog](https://jalammar.github.io/)
    - [Horace He Blog](https://horace.io/index.html)
