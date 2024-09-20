@@ -107,7 +107,7 @@ At this point, you probably have a very decent knowledge in AI. You might have y
    - openAI perspective on AI , a talk in stanford , must watch [Stanford CS25: V4 I Jason Wei & Hyung Won Chung of OpenAI](https://www.youtube.com/watch?v=3gb-ZkVRemQ&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&index=27)
    - interested in deploying your machine learning models on Rasberry-Pi ? here's a good pytorch tutorial ! [click me!](https://pytorch.org/tutorials/intermediate/realtime_rpi.html)
    - goldmine of ressources for advanced ppl ! [click me!](https://www.learnpytorch.io/pytorch_extra_resources/#resources-for-machine-learning-and-deep-learning-engineering)
-   - stanford hardware computing course for a hilistic understanding : here's the [first lecture](https://www.youtube.com/watch?v=V1tINV2-9p4&t=1689s)
+   - stanford hardware computing course for a hilistic understanding : here's the [first lecture](https://www.youtube.com/watch?v=V1tINV2-9p4&t=1689s) and here's the full lecture with slides and assignements offered by stanford to us common folks ,[link](https://gfxcourses.stanford.edu/cs149/fall23/)
 
 4. **I'm ready for a job!**:
    - if you are wondering whether you are ready for a job in ML or not , check out this interview book! it covers a lot of areas , test yourself : [interview BOOK](https://huyenchip.com/ml-interviews-book/)
